@@ -48,7 +48,7 @@ var raga_data = [
     {
         "raga": "Hanumathodi (Thodi) (8)",
         "notes": "R1G2-M1P-D1N2",
-        "example": "Thaye Yashoda, Ninuvina sukhamugaan",
+        "example": "Thaye Yashoda, Ninuvina sukhamugaan, Dasarathe",
         "related": "BhAvapriya (44)"
     },
     {
@@ -66,7 +66,7 @@ var raga_data = [
     {
         "raga": "Kokilapriya (11)",
         "notes": "R1G2-M1P-D2N3",
-        "example": "",
+        "example": "Dasarathe Daya Sharade",
         "related": "SuvrnAngi (47)"
     },
     {
@@ -102,13 +102,13 @@ var raga_data = [
     {
         "raga": "SooryakAntha (17)",
         "notes": "R1G3-M1P-D2N3",
-        "example": "",
+        "example": "Muddu Momu",
         "related": "Gamanashrama (53)"
     },
     {
         "raga": "Hatakambari (18)",
         "notes": "R1G3-M1P-D3N3",
-        "example": "",
+        "example": "Ala LAgAdha",
         "related": "Vishvambhari (54)"
     },
     {
@@ -126,7 +126,7 @@ var raga_data = [
     {
         "raga": "KeeravAni (21)",
         "notes": "R2G2-M1P-D1N3",
-        "example": "AmbavAni",
+        "example": "AmbavAni, Kaligiyunte",
         "related": "Simhendramadyamam (57)"
     },
     {
@@ -144,7 +144,7 @@ var raga_data = [
     {
         "raga": "Varunapriya (24)",
         "notes": "R2G2-M1P-D3N3",
-        "example": "",
+        "example": "SingAra Kumara",
         "related": "Neethimathi (60)"
     },
     {
@@ -270,13 +270,13 @@ var raga_data = [
     {
         "raga": "Shubhapantuvarali (45)",
         "notes": "R1G2-M2P-D1N3",
-        "example": "",
+        "example": "Annalloroge, Nanda Nandana",
         "related": "Dhenuka (9)"
     },
     {
         "raga": "Shadvidhamargini (46)",
         "notes": "R1G2-M2P-D2N2",
-        "example": "",
+        "example": "Antharanga Bhakthi",
         "related": "NAtakapriya (10)"
     },
     {
@@ -304,10 +304,10 @@ var raga_data = [
         "related": "VakuLAbharana (14)"
     },
     {
-        "raga": "Pantuvarali(51)",
+        "raga": "Pantuvarali (51)",
         "notes": "R1G3-M2P-D1N3",
-        "example": "Shivashiva ena radha",
-        "related": " Guruvina GulAma"
+        "example": "Shivashiva ena radha, Guruvina GulAma, Raghuvara",
+        "related": "MAyAmAlavaGowla (15), Kamavardhini"
     },
     {
         "raga": "Ramapriya (52)",
@@ -336,61 +336,61 @@ var raga_data = [
     {
         "raga": "Shanmukhapriya (56)",
         "notes": "R2G2-M2P-D1N2",
-        "example": "Marivere, Siddhi Vinayakam",
+        "example": "Marivere di, Siddhi Vinayakam, Kumara guruguha",
         "related": "Natabhairavi (20)"
     },
     {
         "raga": "Simhendramadyamam (57)",
         "notes": "R2G2-M2P-D1N3",
-        "example": "Needu charanamule, Ashaindhadum",
+        "example": "Needu charanamule, Asaindhadum, Kamakshi,<br> Natajana, Ninne nammi",
         "related": "KeeravAni (21)"
     },
     {
         "raga": "Hemavathi (58)",
         "notes": "R2G2-M2P-D2N2",
-        "example": "Sree Kanthimathim",
+        "example": "Sree Kanthimathim, Hari Yuvathee, Ennai Kaatharul",
         "related": "Kharaharapriya (22)"
     },
     {
         "raga": "Dharmavathi (59)",
         "notes": "R2G2-M2P-D2N3",
-        "example": "",
+        "example": "Paranda Mavathi, Govindasritha gokula",
         "related": "Gowrimanohari (23)"
     },
     {
         "raga": "Neethimathi (60)",
         "notes": "R2G2-M2P-D3N3",
-        "example": "",
+        "example": "Mohanakrishna",
         "related": "Varunapriya (24)"
     },
     {
-        "raga": "Kanthamani (61)",
+        "raga": "KAnthamani (61)",
         "notes": "R2G3-M2P-D1N1",
-        "example": "",
+        "example": "Naadha Sukham",
         "related": "MAraranjani (25)"
     },
     {
         "raga": "Rishabhapriya (62)",
         "notes": "R2G3-M2P-D1N2",
-        "example": "",
+        "example": "Gananaya desika",
         "related": "ChArukesi (26)"
     },
     {
         "raga": "Lathangi (63)",
         "notes": "R2G3-M2P-D1N3",
-        "example": "",
+        "example": "Aparadhamula",
         "related": "SarasAngi (27)"
     },
     {
         "raga": "Vachaspathi (64)",
         "notes": "R2G3-M2P-D2N2",
-        "example": "",
+        "example": "Kantajoodumi, Parath para parameshwara",
         "related": "Harikambhoji (28)"
     },
     {
         "raga": "Mechakalyani (65)",
         "notes": "R2G3-M2P-D2N3",
-        "example": "Ethavunara",
+        "example": "Ethavunara, Nithyakalyani, Vanajakshi, Himadri suthe",
         "related": "Dheerashankarabharana (29)"
     },
     {
@@ -420,7 +420,7 @@ var raga_data = [
     {
         "raga": "NAsikabhooshini (70)",
         "notes": "R3G3-M2P-D2N2",
-        "example": "",
+        "example": "Maravairi ramani",
         "related": "VAgadheeshwari (34)"
     },
     {
@@ -440,19 +440,19 @@ var raga_data = [
     {
         "raga": "Mohana",
         "notes": "R2G2-P-D2",
-        "example": "Ninnukori, Nanupa limpa, Sayonara",
+        "example": "Ninnukori, Nanupa limpa, Bhavanutha, Kapali",
         "related": "Harikambhoji (28), Bhupali"
     },
     {
         "raga": "Hamsadwani",
         "notes": "R2G2-P-N2",
-        "example": "Vaatapi ganapathim",
+        "example": "Vaatapi ganapathim, Gajavadana, Raghunayaka",
         "related": "Dheerashankarabharana (29)"
     },
     {
         "raga": "Hindola",
         "notes": "G2-M1-D1N2",
-        "example": "Samajavaragamana, Yaare Rangana",
+        "example": "Samajavaragamana, Yaare Rangana, Govardhana giri",
         "related": "Natabhairavi (20), Malkauns (H)"
     },
     {
@@ -506,7 +506,7 @@ var raga_data = [
     {
         "raga": "Shivaranjani",
         "notes": "R2G1-P-D2S",
-        "example": "Kurai ondrum",
+        "example": "Kurai ondrum, Mere naina",
         "related": "Kharaharapriya (22)"
     }
 ]
