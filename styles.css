@@ -37,3 +37,9 @@ div.ral {
     text-align: right;
     font-family: Verdana;
 }
+
+div.txt {
+    font-size: medium;
+    font-family: Arial;
+    margin-left: 30px;
+}
