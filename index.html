@@ -13,31 +13,30 @@
 <body>
     <h2>Raga Reckoner - Raga and Song reference page </h2>
     <div class="ral" id='createdate'> Report generated on: </div>
-    <div class="ral" id='feedback'>Got feedback? Give it <a href="mailto:hebbarss@gmail.com?subject=Raga Reckoner - Feedback">here</a></div>
-
+    <div class="ral" id='feedback'>Got feedback? Give it <a href="mailto:shebbars@gmail.com?subject=Raga Reckoner - Feedback">here</a></div>
+    &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/g-sharp.png" alt="G-Sharp Keyboard Layout" style="width:330px;height:150px;" >
+    <br>
     <input type="text" id="row-filter" onkeyup="filterFunction()" placeholder="Type search text here..." title="Type in a text"> &nbsp; &nbsp; 
     <br>
 
     <table id="table">
         <tr>
             <th>S#</th>
-            <th>MK#</th>
             <th>Raga Name</th>
             <th>Notes</th>
             <th>Example</th>
-            <th>Pratimadyama</th>
+            <th>Related Ragas</th>
         </tr>
         <script>
             var data = raga_data
-            $("#createdate").append(create_date.tobateString());
+            $("#createdate").append(create_date);
             for (var i=0; i< data.length; i++) { 
                 var row_data = row_data + '<tr>' +
                     ' <td>' + (i+1) + '</td>' + 
-                    ' <td>' + data[i].mk_num + '</td>' + 
                     ' <td>' + data[i].raga + '</td>' + 
                     ' <td>' + data[i].notes + '</td>' + 
                     ' <td>' + data[i].example + '</td>' + 
-                    ' <td>' + data[i].pratim + '</td>' +
+                    ' <td>' + data[i].related + '</td>' +
                     '</tr>';
                 $('#table').append(row_data);
                 row_data = ''
