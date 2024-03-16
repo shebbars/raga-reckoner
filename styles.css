@@ -6,7 +6,7 @@ h2 {
     background-image: url('/css/searchicon.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
-    width: 40%;
+    width: 50%;
     font-size: 14px;
     padding: 8px 8px 8px 20px;
     border: 1px solid #ddd;
@@ -17,7 +17,7 @@ h2 {
 
 #table {
     margin: 0 auto;
-    font-size: small;
+    font-size: medium;
     font-family: Verdana;
     border: 1px solid black;
     margin-left: 30px;
