@@ -1,0 +1,39 @@
+h2 {
+    text-align: center;
+    font-family: GE Inspira Sans;
+}
+#row-filter {
+    background-image: url('/css/searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 40%;
+    font-size: 14px;
+    padding: 8px 8px 8px 20px;
+    border: 1px solid #ddd;
+    margin-left: 30px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+#table {
+    margin: 0 auto;
+    font-size: medium;
+    font-family: GE Inspira Sans;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+
+th {
+    background-color: #f1c993;
+}
+
+td {
+    background-color: #d9effa;
+    padding: 4px;
+    text-align: left;
+}
+
+div.ral {
+    text-align: right;
+    font-family: GE Inspira Sans;
+}
